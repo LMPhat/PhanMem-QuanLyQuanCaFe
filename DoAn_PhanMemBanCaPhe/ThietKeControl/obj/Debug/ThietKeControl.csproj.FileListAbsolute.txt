@@ -1,0 +1,5 @@
+D:\Github\QuanLyQuanCaPhe\DoAn_PhanMemBanCaPhe\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\Github\QuanLyQuanCaPhe\DoAn_PhanMemBanCaPhe\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\Github\QuanLyQuanCaPhe\DoAn_PhanMemBanCaPhe\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\Github\QuanLyQuanCaPhe\DoAn_PhanMemBanCaPhe\ThietKeControl\obj\Debug\ThietKeControl.pdb
+D:\Github\QuanLyQuanCaPhe\DoAn_PhanMemBanCaPhe\ThietKeControl\obj\Debug\ThietKeControl.csprojResolveAssemblyReference.cache
